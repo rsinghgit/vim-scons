@@ -10,7 +10,7 @@ Syntax file for SConscript or SConstruct, configuration files of the build tool 
 http://www.scons.org
 
 
-#Installation
-##vim-plug
+# Installation
+## vim-plug
 Plug 'rsinghgit/vim-scons'
 

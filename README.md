@@ -8,3 +8,9 @@ Syntax file for SConscript or SConstruct, configuration files of the build tool 
 (from http://www.vim.org/scripts/script.php?script_id=1709)
 
 http://www.scons.org
+
+
+#Installation
+##vim-plug
+Plug 'rsinghgit/vim-scons'
+
